@@ -12,4 +12,7 @@ This repository provides a list of all existing word alignment gold standards da
 | Dutch - English | [An annotation scheme and Gold Standard for Dutch-English word alignment](http://www.lrec-conf.org/proceedings/lrec2010/pdf/100_Paper.pdf) | 25.7k words| | | Journalistic texts, Newsletters, European Public Assessment Reports|
 | [Swedish - English](https://www.ida.liu.se/divisions/hcs/nlplab/resources/ges/) | [A Gold Standard for English–Swedish Word Alignment](https://aclanthology.org/W11-4615.pdf "A Gold Standard for English–Swedish Word Alignment") | 1164 | 91.3% | | Europarl |
 | [Icelandic - English](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/103) | [CombAlign: a Tool for Obtaining High-Quality Word Alignments](https://aclanthology.org/2021.nodalida-main.7.pdf) | 604 | | | [ParIce](https://aclanthology.org/W19-6115.pdf) |
+| [Farsi - English](http://eceold.ut.ac.ir/en/node/940) | [Phrase alignments in parallel corpus using bootstrapping approach.](https://www.sid.ir/en/VEWSSID/J_pdf/125620140307.pdf) |  | | |  |
+| [Hindi - English](https://web.eecs.umich.edu/~mihalcea/wpt05/) | |  | | |  |
+| [Inuktitut - English](https://web.eecs.umich.edu/~mihalcea/wpt05/) | |  | | |  |
 
