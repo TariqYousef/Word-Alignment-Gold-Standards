@@ -5,8 +5,8 @@ This repository provides a list of all existing word alignment evaluation datase
 
 |  Language Pair | Publication  | Dataset Size | IAA | Cohen's Kappa | Text Source |
 | ------------ | ------------ | ------------ | ------------  | ------------ | ------------  |
-|  [French-English](https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources) | [Improved Statistical Alignment Models](https://aclanthology.org/P00-1056.pdf)  | 447 sentences||||
 |  [German-English](https://www-i6.informatik.rwth-aachen.de/goldAlignment/) |  [Improved Statistical Alignment Models](https://aclanthology.org/P00-1056.pdf) | 508 sentences||||
+|  [French-English](https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources) | [An Evaluation Exercise for Word Alignment](https://aclanthology.org/W03-0301.pdf) | 447 sentences||||
 |  [Romanian - English](https://web.eecs.umich.edu/~mihalcea/wpt/index.html#resources) |  [An Evaluation Exercise for Word Alignment](https://aclanthology.org/W03-0301.pdf) | 248 sentences||||
 | [Czech-English](https://ufal.mff.cuni.cz/czech-english-manual-word-alignment) | [Automatic Alignment of Tectogrammatical Trees from Czech-English Parallel Corpus](https://ufal.mff.cuni.cz/pcedt3.0/pubs/Marecek2008_diplomka.pdf) | 2500 sentences |  93% | > 0.9 |mixed |
 |  Myanmar-English | [Annotated Guidelines and Building Reference Corpus for Myanmar-English Word Alignment](https://arxiv.org/pdf/1909.11288.pdf "Annotated Guidelines and Building Reference Corpus for Myanmar-English Word Alignment")  | 500 sentences | 91.56% ||Myanmar- English parallel corpus|
