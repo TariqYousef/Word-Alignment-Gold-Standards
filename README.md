@@ -1,5 +1,6 @@
 ### Word Alignment Gold Standards
-This repository provides a list of all existing word alignment gold standards datasets that have been used to evaluate the performance of automatic word alignment systems.
+This repository provides a list of all existing word alignment evaluation datasets used to evaluate the performance of automatic word alignment systems.
+
 *PS: The list is incomplete, more datasets will be added soon.*
 
 |  Language Pair | Publication  | Dataset Size | IAA | Cohen's Kappa | Text Source |
