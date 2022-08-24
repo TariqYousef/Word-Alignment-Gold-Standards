@@ -14,6 +14,9 @@ This repository provides a list of all existing word alignment evaluation datase
 | [Swedish-English](https://www.ida.liu.se/divisions/hcs/nlplab/resources/ges/) | [A Gold Standard for English–Swedish Word Alignment](https://aclanthology.org/W11-4615.pdf "A Gold Standard for English–Swedish Word Alignment") | 1164 | 91.3% | | Europarl |
 | [Icelandic-English](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/103) | [CombAlign: a Tool for Obtaining High-Quality Word Alignments](https://aclanthology.org/2021.nodalida-main.7.pdf) | 604 | | | [ParIce](https://aclanthology.org/W19-6115.pdf) |
 | [Farsi-English](http://eceold.ut.ac.ir/en/node/940) | [Phrase alignments in parallel corpus using bootstrapping approach.](https://www.sid.ir/en/VEWSSID/J_pdf/125620140307.pdf) |  | | |  |
-| [Hindi-English](https://web.eecs.umich.edu/~mihalcea/wpt05/) | [Aligning words in English-Hindi parallel corpora] (https://aclanthology.org/W05-0819.pdf) | 115 Sentences | | |  |
+| [Hindi-English](https://web.eecs.umich.edu/~mihalcea/wpt05/) | [Aligning words in English-Hindi parallel corpora](https://aclanthology.org/W05-0819.pdf) | 115 Sentences | | |  |
 | [Inuktitut-English](https://web.eecs.umich.edu/~mihalcea/wpt05/) | |  | | |  |
+| [Ancient Greek-English](https://github.com/UgaritAlignment/Alignment-Gold-Standards) |[An automatic model and Gold Standard for translation alignment of Ancient Greek.](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf) | 275 | 86.17% | | Perseus Digital Library |
+| [Ancient Greek-Portoguese](https://github.com/UgaritAlignment/Alignment-Gold-Standards) | [An automatic model and Gold Standard for translation alignment of Ancient Greek.](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf)| 183 |83.31% | | Perseus Digital Library |
+| [Ancient Greek-Latin](https://github.com/UgaritAlignment/Alignment-Gold-Standards) | [Automatic Translation Alignment for Ancient Greek and Latin.](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.14.pdf) | 100 sentences | 90.50%  | | DFHG Project |
 
